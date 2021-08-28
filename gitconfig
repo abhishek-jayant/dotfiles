@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = abhishek.jay301@gmail.com
+	name = abhishekjayant
